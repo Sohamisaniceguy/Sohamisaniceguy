@@ -1,4 +1,11 @@
 ### Hi there 👋
+-------------------------------------------------------------------------
+##About Me:
+------------------------------------------------------------------------
+I am an aspiring Security Professional currently pursuing a Master of Cybersecurity at the University of Maryland, College Park '24. I have experience in Vulnerability analysis and Penetration testing of Web applications & Network as well from my previous internship.
+
+
+
 
 <!--
 **Sohamisaniceguy/Sohamisaniceguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
