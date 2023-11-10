@@ -6,7 +6,7 @@ I am an aspiring Security Professional currently pursuing a Master of Cybersecur
 
 
 ##Ceritfication:
-- [CompTIA Security +]([https://www.example.com/mycertification](https://www.credly.com/badges/2e1ff058-9449-4794-bb97-7a077fd7675a/public_url))
+- [CompTIA Security +](https://www.example.com/mycertification](https://www.credly.com/badges/2e1ff058-9449-4794-bb97-7a077fd7675a/public_url)
 
 <!--
 **Sohamisaniceguy/Sohamisaniceguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
