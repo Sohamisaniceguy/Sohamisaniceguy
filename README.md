@@ -27,7 +27,7 @@ In my recent roles, I have been a Reverse Software Engineering Grader at Marylan
 - **BE in Electrical and Electronics Engineering** - Vidyalankar Institute of Technology, Mumbai (2018 - 2022)
 
 ### Certifications
-- **CompTIA Security+** - CompTIA (Aug 2023 - Aug 2026)
+[CompTIA Security+](https://www.credly.com/badges/2e1ff058-9449-4794-bb97-7a077fd7675a/public_url) - CompTIA (Aug 2023 - Aug 2026)
 - Additional courses and certifications listed on [LinkedIn](https://www.linkedin.com/in/soham-pawaskar/)
 
 ---
