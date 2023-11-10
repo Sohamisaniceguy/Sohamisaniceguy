@@ -1,11 +1,11 @@
 ### Hi there 👋
 -------------------------------------------------------------------------
-##About Me:
+<h2>About Me:</h2>
 ------------------------------------------------------------------------
 I am an aspiring Security Professional currently pursuing a Master of Cybersecurity at the University of Maryland, College Park '24. I have experience in Vulnerability analysis and Penetration testing of Web applications & Network as well from my previous internship.
 
 
-##Ceritfication:
+<h2>Ceritfication:</h2>
 [CompTIA Security+](https://www.credly.com/badges/2e1ff058-9449-4794-bb97-7a077fd7675a/public_url)
 
 <!--
