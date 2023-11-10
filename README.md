@@ -1,7 +1,7 @@
 ### Hi there 👋
--------------------------------------------------------------------------
+
 <h2>About Me:</h2>
-------------------------------------------------------------------------
+
 I am an aspiring Security Professional currently pursuing a Master of Cybersecurity at the University of Maryland, College Park '24. I have experience in Vulnerability analysis and Penetration testing of Web applications & Network as well from my previous internship.
 
 
