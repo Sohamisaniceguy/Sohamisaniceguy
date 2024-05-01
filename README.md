@@ -1,6 +1,6 @@
 # Soham Pawaskar
 
-## Future Cybersecurity Expert | MEng. in Cybersecurity @ UMD & CompTIA Security+ Certified
+## Cybersecurity Expert | MEng. in Cybersecurity @ UMD & CompTIA Security+ Certified
 
 ### 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/soham-pawaskar/)
 
