@@ -28,6 +28,8 @@ In my recent roles, I have been a Reverse Software Engineering Grader at Marylan
 
 ### Certifications
 [CompTIA Security+](https://www.credly.com/badges/2e1ff058-9449-4794-bb97-7a077fd7675a/public_url) - (Aug 2023 - Aug 2026)
+[AWS Certified Solutions Architect Associate](https://www.credly.com/earner/earned/badge/1fb407f4-a052-4d7c-ad8f-589f840f5402) - (March 2024 - March 2027)
+[AWS Certified Security Specialty](https://www.credly.com/earner/earned/badge/b4305c4c-3161-4dfe-b624-a878ebb95dc9) - (April 2024 - April 2027)
 - Additional courses and certifications listed on [LinkedIn](https://www.linkedin.com/in/soham-pawaskar/)
 
 ---
